@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi 👋, I'm Omar Farag
 
-<!--
-**Omarfaraag/Omarfaraag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Student at Horus University | Python Developer | Future Machine Learning Engineer
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+- 🎓 AI Student at Horus University
+- 🐍 Currently learning Python
+- 🗄️ Learning SQL
+- 🌱 Learning Git & GitHub
+- 🤖 Interested in Machine Learning & AI
+- 🎯 Goal: Become a Machine Learning Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Python
+- SQL
+- Git
+- GitHub
+- VS Code
+
+## 📫 Connect with Me
+- LinkedIn:https://www.linkedin.com/in/omar-m-farag-bb4768336?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
+---
+⭐ Thanks for visiting my profile!
